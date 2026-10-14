@@ -1,6 +1,6 @@
 # GodotBridge — Godot Editor Plugin
 
-The Godot 4.x editor addon for [GodotBridge](https://godotbridge.dev). This plugin creates a local WebSocket bridge that lets an MCP-speaking AI agent (Claude, Cursor, Windsurf, or any MCP client) inspect and control your Godot editor session and running game.
+The Godot 4.x editor addon for [GodotBridge](https://godotbridge.com). This plugin creates a local WebSocket bridge that lets an MCP-speaking AI agent (Claude, Cursor, Windsurf, or any MCP client) inspect and control your Godot editor session and running game.
 
 ## Features
 
@@ -53,7 +53,7 @@ Add to your MCP config:
 }
 ```
 
-For detailed setup instructions, visit [godotbridge.dev](https://godotbridge.dev).
+For detailed setup instructions, visit [godotbridge.com](https://godotbridge.com).
 
 ## How it works
 
@@ -86,7 +86,7 @@ MIT — see [LICENSE](LICENSE) for details.
 
 ## Links
 
-- [Website](https://godotbridge.dev)
-- [Documentation](https://godotbridge.dev/docs)
+- [Website](https://godotbridge.com)
+- [Documentation](https://godotbridge.com/docs)
 - [MCP Server (PyPI)](https://pypi.org/project/godotbridge/)
 - [Report Issues](https://github.com/godotbridge/addon/issues)
